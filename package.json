@@ -1,0 +1,34 @@
+{
+  "name": "es6-tutorial-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "webpack": "webpack"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.2.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "browser-sync": "^2.24.5",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.8.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.21.0",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3",
+    "react-redux": "^4.4.9",
+    "redux": "^3.0.4"
+  }
+}

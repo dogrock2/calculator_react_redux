@@ -1,0 +1,9 @@
+
+#mainContainer{
+    text-align: center;
+    width: 500px;
+}
+
+.btns:hover{
+    background-color: darkgray;
+}
